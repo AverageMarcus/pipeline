@@ -283,7 +283,7 @@ The recommended minimum development configuration is:
    $ kind create cluster
    ```
 
-4. Configure [ko](https://kind.sigs.k8s.io/):
+4. Configure [ko](https://ko.build/):
 
    ```sh
    $ export KO_DOCKER_REPO="kind.local"
